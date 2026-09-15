@@ -141,6 +141,7 @@ This website is part of the RasToken project. All rights reserved.
 
 For issues or suggestions, please contact:
 - Email: tokenras@gmail.com
+- Email: developer [Ahamed Rashid] (https://ahamedrashid-me/)
 - Website: [rastoken.io](https://rastoken.github.io/)
 
 ---
